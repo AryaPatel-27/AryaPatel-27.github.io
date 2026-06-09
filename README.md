@@ -1,27 +1,108 @@
-# Arya Patel - Cybersecurity Portfolio
+# 👨‍💻 Arya Patel - Cybersecurity Portfolio
 
-## 👨‍💻 About Me
-I am a Computer Science graduate passionate about cybersecurity, networking, and incident response.
+---
 
-## 🎯 Career Goal
-To become a SOC Analyst / Cybersecurity Analyst in Canada.
+## 🌐 About Me
 
-## 🛠️ Skills
-- Networking (TCP/IP, VLANs, Routing basics)
-- Security Tools: Nmap, Wireshark, Metasploit, OpenSSL
-- Linux & Windows Administration
-- Virtual Machines (VirtualBox, VMware)
+I am a Computer Science graduate passionate about **cybersecurity, networking, and incident response**.
+I enjoy understanding how systems communicate, how attacks happen, and how to defend IT infrastructures using security tools and best practices.
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as a **SOC Analyst / Cybersecurity Analyst (Entry-Level)** in Canada, where I can apply my knowledge of networking, security monitoring, and incident response.
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔐 Cybersecurity & Networking
+
+* TCP/IP, DNS, DHCP, VLANs
+* Routing & Switching fundamentals
+* Network traffic analysis
+* Vulnerability assessment basics
+
+### 🧰 Security Tools
+
+* Nmap (Network Scanning)
+* Wireshark (Packet Analysis)
+* Metasploit (Exploitation basics)
+* OpenSSL (Encryption & certificates)
+* pfSense (Firewall basics)
+
+### 💻 Systems & Platforms
+
+* Linux (Ubuntu, CLI operations)
+* Windows Administration
+* VirtualBox / VMware (Virtual Labs)
+
+### 📊 Other Skills
+
+* Incident Response basics
+* Troubleshooting network issues
+* Analytical thinking & problem solving
+* Team collaboration & communication
+
+---
 
 ## 📂 Projects
-- Network scanning using Nmap
-- Packet analysis using Wireshark
-- Vulnerability assessment lab
-- Firewall configuration (pfSense)
+
+* 🔍 Network Scanning Lab using Nmap
+* 📡 Packet Analysis using Wireshark
+* 🛡️ Vulnerability Assessment in Virtual Lab
+* 🔥 Firewall Configuration using pfSense
+* 🔐 Basic Encryption Testing using OpenSSL
+
+---
 
 ## 📜 Certifications
-- CompTIA Network+ (In Progress)
-- CompTIA Security+ (In Progress)
+
+* CompTIA Network+ (In Progress)
+
+
+---
+
+## 📊 Skills Overview (Visual)
+
+```mermaid
+mindmap
+  root((Cybersecurity Skills))
+    Networking
+      TCP/IP
+      VLANs
+      Routing
+      Switching
+    Security Tools
+      Nmap
+      Wireshark
+      Metasploit
+      OpenSSL
+      pfSense
+    Systems
+      Linux
+      Windows
+      Virtual Machines
+    Security Concepts
+      Incident Response
+      Vulnerability Assessment
+      Threat Analysis
+```
+
+---
+
+
+
+
+
+
 
 ## 📫 Contact
-Email: your-email@example.com
-LinkedIn: https://linkedin.com/in/yourprofile
+
+* 📧 Email: arya.work27@gmail.com
+* 🔗 LinkedIn: Arya Patel | LinkedIn
+
+---
+
+⭐ *Always learning, always improving in cybersecurity and defense.*
